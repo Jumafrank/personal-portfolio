@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+body{
+    marg in: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+    min-height: 100vh;
+    background-color: darkgray;
+}
+.nav{
+    height: 100px;
+    width: 100%;
+    background-color: burlywood;
+    display: flex;
+}
+.logo{
+    font-size: 45px;
+    font-weight: bold;
+    color: white;
+    margin-left: 3%;
+}
+.nav ul{
+    margin-left: 30%;
+    display: flex;
+}
+.nav ul li{
+    font-size: 30px;
+    list-style: none;
+    padding: 20px;
+    
+    
+
+}
+.nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+.nav ul li a:hover{
+    color: violet;
+}
+
