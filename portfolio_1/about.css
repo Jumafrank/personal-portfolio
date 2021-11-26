@@ -1,0 +1,15 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    background-color: burlywood;
+}
+img{
+    height: 230px;
+    width: 230PX;
+    border-radius: 150px;
+}
+table{
+    border-collapse: collapse;
+    background-color: brown;
+}
