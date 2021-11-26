@@ -52,3 +52,16 @@ textarea{
 #submit:hover{
     background-color: brown;
 }
+#tel{
+    width: 60px;
+}
+#num{
+    width: 233px;
+}
+#radio{
+    height: 15px;
+    width: 15px;
+}
+#id{
+    font-size: 20px;
+}
